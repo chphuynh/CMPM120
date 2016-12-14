@@ -1,0 +1,6 @@
+larvae + larvae = egg
+larvae + egg = drone
+egg + egg = overlord
+larvae + drone = zergling
+zergling + larvae = hydralisk
+hydralisk + overlord = mutalisk
